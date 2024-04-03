@@ -7,27 +7,28 @@
 
 <p align="left"> <a href="https://twitter.com/jxt_lastborn" target="blank"><img src="https://img.shields.io/twitter/follow/jxt_lastborn?logo=twitter&style=for-the-badge" alt="jxt_lastborn" /></a> </p>
 
-- 👨🏾‍💻 I currently write **Swift and SwiftUI**
+I currently write **Swift and SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/McMaurice](https://github.com/McMaurice)
+All of my projects are available here below 👇👇
 
-- 📝 I regularly write articles on [tiktok.com/@jxt_lastborn](tiktok.com/@jxt_lastborn)
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔶🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔴🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔶🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-- 📫 How to reach me **macmauriceosuji@gmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/Macmaurice-osuji-610908258](linkedin.com/in/Macmaurice-osuji-610908258)
-
-- ⚡ Fun fact **I play soccer too**
+- 📫 Send me a mail at **macmauriceosuji@gmail.com**
 
 - ✌🏾 I am also a **Graphics designer**
+  
+- ⚡ Fun fact **I play soccer too**
+  
+- 📝 I regularly write articles on **Linkedin, Twitter(X) and Tiktok**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jxt_lastborn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jxt_lastborn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Macmaurice-osuji-610908258" target="blank"><img align="center" src="https://logosarchive.com/wp-content/uploads/2021/07/Tiktok-logo-icon-square.svg" alt="jxt_lastborn" height="30" width="30" /> </a> <a href="https://twitter.com/jxt_lastborn" target="blank"><img align="center" src="https://logosarchive.com/wp-content/uploads/2021/07/Linkedin-logo.svg" alt="jxt_lastborn" height="30" width="30" /> </a> <a href="https://www.tiktok.com/@jxt_lastborn" target="blank"><img align="center" src="https://logosarchive.com/wp-content/uploads/2021/07/Tiktok-logo-icon-square.svg" alt="jxt_lastborn" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/> </a> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" alt="xcode" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/> </a> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcmaurice&show_icons=true&locale=en&layout=compact" alt="mcmaurice" /></p>
 
