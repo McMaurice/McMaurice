@@ -1,18 +1,18 @@
 <div align="center">
-  
-# ✌🏾 Hola Amigo, I'm MacMaurice Osuji
 
-### A Mobile Software Engineer (Flutter × SwiftUI)
+# ✌🏾 MacMaurice Jachimike Osuji
+
+### Full-Stack Software Engineer · Mobile × Web × Backend × Cloud
 
 <p align="center">
   <a href="https://macmaurice.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/macmaurice-osuji-610908258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/jxt_lastborn" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:macmauriceosuji@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -28,63 +28,91 @@
 ## 🚀 About Me
 
 ```dart
-class MacMaurice extends MobileDeveloper {
-  final String role = "Mobile Software Engineer";
-  final List<String> expertise = ["Flutter", "SwiftUI", "Dart", "Swift"];
-  final String education = "B.Eng in Mechanical Engineering 👷🏾‍♂️";
-  final String passion = "Building clean, secured and fast apps";
-  
-  void currentlyWorking() {
-    print("Engineering apps with Flutter");
-    print("Exploring native iOS development with SwiftUI");
-  }
-  
-  Map<String, String> funFacts() => {
-    "Design": "8+ years mastering Photoshop 🎨",
-    "Football": "Proud Chelsea FC supporter 💙",
-    "Learning": "Self-taught Flutter Ninja 🥷🏾"
-  };
+class MacMaurice extends FullStackEngineer {
+  final String location        = "Lagos, Nigeria 🇳🇬";
+  final String experience      = "5+ years in production software";
+  final String education       = "B.Eng Mechanical Engineering → Self-taught 🥷🏾";
+
+  final List<String> mobile    = ["Flutter", "SwiftUI", "Dart", "Swift"];
+  final List<String> web       = ["Next.js", "TypeScript", "Tailwind CSS"];
+  final List<String> backend   = ["FastAPI", "PostgreSQL", "Supabase", "Firebase"];
+  final List<String> devops    = ["Docker", "GitHub Actions", "CI/CD", "Vercel", "Render", "Cloudflare"];
+
+  final String openSource      = "Auth_Ninja_SDK → pub.dev (90% Firebase setup time reduction)";
+  final String currentlyAt     = "MacVoltex Systems LTD — Founder & Lead Engineer";
+
+  final List<String> shipped   = [
+    "App Store ✓",
+    "Play Store ✓",
+    "pub.dev SDK ✓",
+    "Production FastAPI backend ✓",
+  ];
+
+  String funFact() =>
+      "Mechanical Engineer who chose pixels over pistons. No regrets. 🔩➡️📱";
 }
 ```
-
-**Self-taught Flutter developer** with a relentless focus on problem-solving, clean architecture, and pixel-perfect UI. I believe great apps are built at the intersection of design and engineering.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
+### 📱 Mobile
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white"/>
 </p>
 
-### Languages & Tools
+### 🌐 Web & Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### Development Environment
+### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### Design
+### 🚀 DevOps & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+### 🧰 Tools & Practices
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 💼 Shipped Work
+
+| Project | Stack | Live |
+|--------|-------|------|
+| **Verification Portal** — MacVoltex credential verification system with QR generation | FastAPI · PostgreSQL · Cloudflare | [macvoltex.com/verify](https://macvoltex.com/verify) |
+| **Zedu App** — Workplace collaboration with real-time messaging, AI Agents & file sharing | Flutter · Firebase · FCM | [Play Store](https://play.google.com) · [App Store](https://apps.apple.com) |
+| **Auth_Ninja_SDK** — Firebase auth SDK for Flutter, 90% faster setup | Flutter · Dart · Riverpod | [pub.dev](https://pub.dev/packages/auth_ninja_sdk) |
+| **DeeBankFamilie** — Couples' portfolio with stories, milestones & photo galleries | Next.js · Tailwind · Netlify | [deebankfamilie.netlify.app](https://deebankfamilie.netlify.app) |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcmaurice&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -101,42 +129,30 @@ class MacMaurice extends MobileDeveloper {
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Currently
 
-- 🔭 Building cross-platform mobile applications with **Flutter**
-- 🌱 Deepening my expertise in **SwiftUI** and native iOS development
-- 💡 Exploring advanced state management patterns and clean architecture
-- ✍️ Sharing knowledge through technical articles and tutorials
-- 🎨 Combining 8+ years of design experience with modern mobile development
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-  
-Check out my work at **[macmaurice.vercel.app](https://macmaurice.vercel.app)** 🚀
-
-</div>
+- 🏗️ Running **[MacVoltex Systems LTD](https://macvoltex.com)** — building platforms and products end-to-end
+- 📱 Shipping cross-platform apps with **Flutter** and native iOS with **SwiftUI**
+- 🌍 Deepening **German (A1 → A2)** — targeting the European tech market
+- 🔐 Maintaining **Auth_Ninja_SDK** on pub.dev
+- ✍️ Sharing engineering insights on [LinkedIn](https://www.linkedin.com/in/macmaurice-osuji-610908258)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Build Something
 
-I'm always open to collaborating on innovative mobile projects or discussing the latest in Flutter and SwiftUI development!
+Open to senior Flutter roles, full-stack contracts, and remote-first opportunities — globally.
 
 <div align="center">
 
-**💌 Reach me at:** macmauriceosuji@gmail.com
-
-📝 **I write about mobile development** on [LinkedIn](https://www.linkedin.com/in/macmaurice-osuji-610908258) and [Twitter](https://twitter.com/jxt_lastborn)
+**💌** macmauriceosuji@gmail.com &nbsp;·&nbsp; 🌐 [macmaurice.vercel.app](https://macmaurice.vercel.app)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### *"They not like us ✌🏾"*
 
 </div>
