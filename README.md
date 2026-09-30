@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✌🏾 MacMaurice Jachimike Osuji
+# ✌🥷🏾 MacMaurice Jachimike Osuji
 
 ### Full-Stack Software Engineer · Mobile × Web × Backend × Cloud
 
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mcmaurice&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mcmaurice&label=Known%20by&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Known by" />
 
 </div>
 
@@ -31,7 +31,7 @@
 class MacMaurice extends FullStackEngineer {
   final String location        = "Lagos, Nigeria 🇳🇬";
   final String experience      = "5+ years in production software";
-  final String education       = "B.Eng Mechanical Engineering → Self-taught 🥷🏾";
+  final String education       = "B.Eng Mechanical Engineering";
 
   final List<String> mobile    = ["Flutter", "SwiftUI", "Dart", "Swift"];
   final List<String> web       = ["Next.js", "TypeScript", "Tailwind CSS"];
@@ -50,6 +50,7 @@ class MacMaurice extends FullStackEngineer {
 
   String funFact() =>
       "Mechanical Engineer who chose pixels over pistons. No regrets. 🔩➡️📱";
+      "Keep the Blue Flag Flying High 💙"
 }
 ```
 
@@ -101,30 +102,30 @@ class MacMaurice extends FullStackEngineer {
 
 ---
 
-## 💼 Shipped Work
+## 💼 Popular Productions
 
-| Project | Stack | Live |
+| Product | Role | Address |
 |--------|-------|------|
-| **Verification Portal** — MacVoltex credential verification system with QR generation | FastAPI · PostgreSQL · Cloudflare | [macvoltex.com/verify](https://macvoltex.com/verify) |
-| **Zedu App** — Workplace collaboration with real-time messaging, AI Agents & file sharing | Flutter · Firebase · FCM | [Play Store](https://play.google.com) · [App Store](https://apps.apple.com) |
-| **Auth_Ninja_SDK** — Firebase auth SDK for Flutter, 90% faster setup | Flutter · Dart · Riverpod | [pub.dev](https://pub.dev/packages/auth_ninja_sdk) |
-| **DeeBankFamilie** — Couples' portfolio with stories, milestones & photo galleries | Next.js · Tailwind · Netlify | [deebankfamilie.netlify.app](https://deebankfamilie.netlify.app) |
+| **MacVoltex  -Web** — Nigerian software and engineering technology company | FullStack Development | [macvoltex.com](https://www.macvoltex.com) |
+| **Zedu -App** — Workplace collaboration with real-time messaging, AI Agents & file sharing | Mobile | [Play Store](https://play.google.com) · [App Store](https://apps.apple.com) |
+| **Auth Ninja -SDK** — Firebase auth SDK for Flutter, 90% faster setup | Flutter · Dart · Riverpod | [pub.dev](https://pub.dev/packages/auth_ninja_sdk) |
+| **Check9ja -Web** — If you are looking for trending stories, breaking news, entertainment updates, or event listings across Nigeria |  | [check9ja.com](https://check9ja.com) |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcmaurice&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmaurice&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcmaurice&show_icons=true&theme=nord&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmaurice&layout=compact&langs_count=8&theme=nord&hide_border=true&hide=javascript,rust,c,c%2B%2B,c%23"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcmaurice&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcmaurice&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mcmaurice&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mcmaurice&theme=nord&no-frame=true&no-bg=true&column=-1&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 ---
@@ -134,7 +135,7 @@ class MacMaurice extends FullStackEngineer {
 - 🏗️ Running **[MacVoltex Systems LTD](https://macvoltex.com)** — building platforms and products end-to-end
 - 📱 Shipping cross-platform apps with **Flutter** and native iOS with **SwiftUI**
 - 🌍 Deepening **German (A1 → A2)** — targeting the European tech market
-- 🔐 Maintaining **Auth_Ninja_SDK** on pub.dev
+- 🔐 Learning Always
 - ✍️ Sharing engineering insights on [LinkedIn](https://www.linkedin.com/in/macmaurice-osuji-610908258)
 
 ---
