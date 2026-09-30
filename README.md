@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✌🥷🏾 MacMaurice Jachimike Osuji
+#🥷🏾 MacMaurice Jachimike Osuji
 
 ### Full-Stack Software Engineer · Mobile × Web × Backend × Cloud
 
