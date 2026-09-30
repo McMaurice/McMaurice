@@ -41,7 +41,7 @@ class MacMaurice extends FullStackEngineer {
   final String openSource      = "Auth_Ninja_SDK → pub.dev (90% Firebase setup time reduction)";
   final String currentlyAt     = "MacVoltex Systems LTD — Founder & Lead Engineer";
 
-  final List<String> shipped   = [
+  final List<String> shipping    = [
     "App Store ✓",
     "Play Store ✓",
     "pub.dev SDK ✓",
@@ -107,9 +107,9 @@ class MacMaurice extends FullStackEngineer {
 | Product | Role | Address |
 |--------|-------|------|
 | **MacVoltex  -Web** — Nigerian software and engineering technology company | FullStack Development | [macvoltex.com](https://www.macvoltex.com) |
-| **Zedu -App** — Workplace collaboration with real-time messaging, AI Agents & file sharing | Mobile | [Play Store](https://play.google.com) · [App Store](https://apps.apple.com) |
-| **Auth Ninja -SDK** — Firebase auth SDK for Flutter, 90% faster setup | Flutter · Dart · Riverpod | [pub.dev](https://pub.dev/packages/auth_ninja_sdk) |
-| **Check9ja -Web** — If you are looking for trending stories, breaking news, entertainment updates, or event listings across Nigeria |  | [check9ja.com](https://check9ja.com) |
+| **Zedu -App** — Workplace collaboration with real-time messaging, AI Agents & file sharing | Mobile Developer | [Play Store](https://play.google.com) · [App Store](https://apps.apple.com) |
+| **Auth Ninja -SDK** — Firebase auth SDK for Flutter, 90% faster setup | Mobile Engineer | [pub.dev](https://pub.dev/packages/auth_ninja_sdk) |
+| **Check9ja -Web** — If you are looking for trending stories, breaking news, entertainment updates, or event listings across Nigeria | FullStack Development | [check9ja.com](https://check9ja.com) |
 
 ---
 
